@@ -15,4 +15,7 @@ cd server
 npm install
 
 # Start backend server
+ npm run dev
+#Start the frontend server
 npm start
+
